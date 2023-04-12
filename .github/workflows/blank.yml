@@ -1,5 +1,5 @@
 name: workflow
-on: workflow_ahad
+on: workflow_dispatch
 jobs:
   first-job:
     runs-on: ubuntu-latest
